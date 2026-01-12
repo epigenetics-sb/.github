@@ -14,7 +14,7 @@ Our research focuses on understanding how genetic variation and epigenetic regul
 ### Affiliated Chairs & Groups
 This organization reflects the work of research groups at Saarland University, including:
 
-- **Chair of Genetics / Neurogenetics**  
+- **Chair of Genetics / Epigenetics/ Neurogenetics**  
   https://www.uni-saarland.de/lehrstuhl/schulze-hentrich.html  
 
 - **Chair of Genetics / Molecular and Computational Biology**  
